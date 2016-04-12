@@ -98,9 +98,6 @@ transition: all 0.5s ease;}
 
 .contact-wrap{padding:40px 0;}
 .contact-wrap .white-box{background:#fff;padding:50px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);}
-.contact-wrap .contact-frm{margin:0 0 30px;}
-.contact-wrap .contact-frm input[type=text], .contact-wrap .contact-frm input[type=email]{width:100%;border:none;border-bottom:solid 1px #555;border-radius:0;box-shadow:none;padding:7px 0;}
-.contact-wrap .contact-frm textarea{width:100%;border:none;border-bottom:solid 1px #555;border-radius:0;box-shadow:none;padding:7px 0;}
 .contact-wrap .contact-frm .btn{border:none;border-radius:0;box-shadow:none;padding:7px 30px;background:#f6f6f6;text-transform:uppercase;}
 .contact-wrap .contact-frm .btn:hover{background:#f06292;color:#fff;}
 .contact-wrap .address-block{text-align:center;margin:0 0 30px;}
