@@ -108,7 +108,7 @@ transition: all 0.5s ease;}
 .input--nao {overflow: hidden;padding-top:13px;}
 .input {width:100%;position: relative;z-index: 1;display: inline-block;min-width: 370px;vertical-align: top; float: left;}
 .input__field--nao {padding: 12px 0px;width: 100%;background: transparent;color: #9da8b2;font-size: 12px;}
-.input__field {position: relative; display: block; float: right;width: 100%; border: none;border-radius: 0; color: #9e9e9e;font-weight: 300;-webkit-appearance: none;}
+.input__field {outline:none;position: relative; display: block; float: right;width: 100%; border: none;border-radius: 0; color: #9e9e9e;font-weight: 300;-webkit-appearance: none;}
 .input__label {display: inline-block;float: right; padding: 0 1em;width: 50%;color: #9e9e9e; font-weight: 300; font-size: 12px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;-webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}
 .input__label--nao {position: absolute; top: 0;font-size: 12px;left: 0;display: block; width: 100%;text-align: left; padding: 0em; pointer-events: none;-webkit-transform-origin: 0 0; transform-origin: 0 0;-webkit-transition: -webkit-transform 0.2s 0.15s, color 1s;
 transition: transform 0.2s 0.15s, color 1s; -webkit-transition-timing-function: ease-out;transition-timing-function: ease-out;}
