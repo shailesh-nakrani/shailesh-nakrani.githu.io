@@ -41,13 +41,13 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#f6f6f6;}
 .main-title{margin:0 0 40px;text-align:center;}
 .main-title h2{font-weight:100;font-size:60px;font-family: 'Roboto', sans-serif;margin:0;}
 
-.skill-wrap{padding:40px 0;}
+.skill-wrap{padding:100px 0;}
 .skill-wrap .skill-title{font-weight:300;font-size:24px;font-family: 'Roboto', sans-serif;margin:0 0 30px;color:#ffce00;}
 .skill-wrap .skill-name{font-weight:300;font-size:16px;font-family: 'Roboto', sans-serif;margin:0 0 10px;color:#777;}
 .skill-wrap .progress{height:2px;margin:0 0 30px;}
 .skill-wrap .progress-bar{background-color:#ffce00;position:relative;}
 
-.portfolio-wrap{padding:40px 0;}
+.portfolio-wrap{padding:100px 0;}
 .portfolio-wrap .port-nav{margin:0 0 30px;text-align:center;}
 .portfolio-wrap .port-nav .nav-inner{display:inline-block;}
 .portfolio-wrap .port-nav a{background:none;padding:10px 20px;border-bottom:solid 2px #ddd;color:#777;display:table-cell;text-decoration:none;cursor:pointer;}
@@ -64,7 +64,7 @@ transition: all 0.5s ease;}
 .portfolio-wrap .gallery li:hover .thumbnail .caption{top:0;display:block;}
 .portfolio-wrap .gallery li .thumbnail .caption h4{font-weight:600;font-size:16px;font-family: 'Roboto', sans-serif;margin:0;color:#fff;}
 
-.work-wrap{padding:40px 0;}
+.work-wrap{padding:100px 0;}
 .work-wrap .work-section{position:relative;}
 .work-wrap .work-section:before{content:'';display:block;width:2px;background:#ddd;top:90px;bottom:0;left:50%;margin-left:-1px;position:absolute;}
 .work-wrap .work-section:after{content:'';clear:both;display:block;}
@@ -85,7 +85,7 @@ transition: all 0.5s ease;}
 .work-wrap .work-block .company a:hover{color:#222;}
 .work-wrap .work-block .desc{font-weight:300;font-size:14px;font-family: 'Roboto', sans-serif;margin:0;color:#444;text-align:justify;}
 
-.blog-wrap{padding:40px 0;}
+.blog-wrap{padding:100px 0;}
 .blog-block{background:#fff;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);margin:0 0 30px;}
 .blog-block .blog-img{margin:0;}
 .blog-block .blog-img img{width:100%;}
@@ -96,7 +96,7 @@ transition: all 0.5s ease;}
 .blog-block .date span{font-weight:300;font-size:16px;color:#777;display:block;}
 .blog-block .blog-desc{font-weight:300;font-size:14px;font-family: 'Roboto', sans-serif;margin:0;color:#444;text-align:justify;}
 
-.contact-wrap{padding:40px 0;}
+.contact-wrap{padding:100px 0;}
 .white-box{background:#fff;padding:50px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);}
 .contact-wrap .contact-frm .btn{margin-top:25px;border:none;border-radius:0;color:#777;box-shadow:none;padding:7px 30px;background:#f6f6f6;text-transform:uppercase;}
 .contact-wrap .contact-frm .btn:hover{background:#ffce00;color:#fff;}
