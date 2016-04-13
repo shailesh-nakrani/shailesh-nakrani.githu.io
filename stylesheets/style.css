@@ -52,7 +52,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#f6f6f6;}
 .portfolio-wrap .port-nav .nav-inner{display:inline-block;}
 .portfolio-wrap .port-nav a{background:none;padding:10px 20px;border-bottom:solid 2px #ddd;color:#777;display:table-cell;text-decoration:none;cursor:pointer;}
 .portfolio-wrap .port-nav a:hover{border-bottom:solid 2px #ffce00;color:#ffce00;}
-.portfolio-wrap .port-nav a:active{border-bottom:solid 2px #ffce00;color:#ffce00;}
+.portfolio-wrap .port-nav a.active{border-bottom:solid 2px #ffce00;color:#ffce00;}
 .portfolio-wrap .gallery{margin:0;padding:0;list-style:none;}
 .portfolio-wrap .gallery:after{content:'';clear:both;display:block;}
 .portfolio-wrap .gallery li{display:block;width:25%;float:left;padding:0 15px;margin:0 0 30px;}
