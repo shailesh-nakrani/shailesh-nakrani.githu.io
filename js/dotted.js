@@ -1,7 +1,6 @@
 (function(){
-    var stage, textStage, form, input;
-    var circles, textPixels, textFormed;
-    var offsetX, offsetY, text;
+    var circles;
+    var offsetX, offsetY;
     var colors = ['#E91E63', '#2196F3', '#FFEB3B', '#FF5722', '#9C27B0'];
 
     function init() {
