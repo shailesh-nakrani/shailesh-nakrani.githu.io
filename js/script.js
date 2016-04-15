@@ -9,5 +9,12 @@ $(function(){
       $('.portfolio-box a').removeClass('active');
       target.addClass('active');
    });
-   
+   $('input').blur(function(e){
+      var input = $(e.target);
+      if(input.val()){
+         input.addClass('active');
+      } else {
+         input.removeClass('active');
+      }
+   });
 });
