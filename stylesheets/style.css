@@ -5,12 +5,12 @@
 body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#f6f6f6;}
 
 .navbar{border:0;position: fixed;width: 100%;top: 0;left: 0;margin: 0;z-index: 999;}
-.navbar-brand{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);color:#212121;background:#fff;height:auto;}
+.navbar-brand{padding: 8px 15px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);color:#212121;background:#fff;height:auto;}
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{background:#fff;}
 .nav{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);border:0;color:#212121;background-color:#fff;margin-top:0;}
 .navbar-default{background:none;}
 .navbar-default .navbar-nav{position:relative;}
-.navbar-default .navbar-nav>li>a{font-size:16px;padding:26px 15px 24px;text-transform:uppercase;border-bottom:solid 3px rgba(0,0,0,0);color:#777;}
+.navbar-default .navbar-nav>li>a{font-size:16px;padding: 21px 15px 21px;text-transform:uppercase;border-bottom:solid 3px rgba(0,0,0,0);color:#777;}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{color:#ff4081;}
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{color:#ff4081;border-color:#ff4081;background:none;}
 
