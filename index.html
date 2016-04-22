@@ -7,6 +7,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
     <link href="stylesheets/bootstrap.min.css" rel="stylesheet">
     <link href="stylesheets/style.css" rel="stylesheet"  />
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
 <body>
 <nav class="navbar navbar-default navbar-fixed-top">
@@ -25,14 +26,13 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="active"><a href="#home">Home</a></li>
-        <li><a href="#skill">Skill</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#experience">Experiance</a></li>
-        <li><a href="#education">Education</a></li>
-        <li><a href="#blog">Blog</a></li>
-        <li><a href="#contact">Contact</a></li>
-        <div class="social"><a href="https://twitter.com/snakrani7594" class="twit" target="_blank"><a href="https://www.facebook.com/sallu7594" class="fb" target="_blank"></a></a><a href="https://plus.google.com/+ShaileshNakranidiff" class="gp" target="_blank"></a></div>
+        <li class="active ripple"><a href="#home">Home</a></li>
+        <li class="ripple"><a href="#skill">Skill</a></li>
+        <li class="ripple"><a href="#portfolio">Portfolio</a></li>
+        <li class="ripple"><a href="#experience">Experiance</a></li>
+        <li class="ripple"><a href="#education">Education</a></li>
+        <li class="ripple"><a href="#blog">Blog</a></li>
+        <li class="ripple"><a href="#contact">Contact</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
@@ -72,8 +72,8 @@
                         </tr>
                     </table>
                     <div class="action">
-                    	<a href="#" class="pink-btn">Download CV</a>
-                        <a href="#" class="green-btn">Contact Me</a>
+                    	<a href="#" class="pink-btn ripple">Download CV</a>
+                        <a href="#" class="green-btn ripple">Contact Me</a>
                     </div>
                 </div>
             </div>
@@ -363,9 +363,9 @@
         <div class="row">
         	<div class="col-sm-6">
             	<div class="white-box contact-frm">
-                	<form>
+                	<form id="contactForm">
        	  	  	 <div class="input input--nao">
-				<input class="input__field input__field--nao" type="text" id="input-1" required="">
+				<input class="input__field input__field--nao" type="text" id="input-1" required="" name="name">
 					<label class="input__label input__label--nao" for="input-1">
 						<span class="input__label-content input__label-content--nao">Name</span>
 					</label>
@@ -373,17 +373,9 @@
 						<path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0" stroke-width="1"></path>
 					</svg>
 			</div>
+			
 			<div class="input input--nao">
-				<input class="input__field input__field--nao" type="text" id="input-1" required="">
-					<label class="input__label input__label--nao" for="input-1">
-						<span class="input__label-content input__label-content--nao">Email</span>
-					</label>
-					<svg class="graphic graphic--nao" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
-						<path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0" stroke-width="1"></path>
-					</svg>
-			</div>
-			<div class="input input--nao">
-				<input class="input__field input__field--nao" type="text" id="input-1" required="">
+				<input class="input__field input__field--nao" type="text" id="input-1" required="" name="subject">
 					<label class="input__label input__label--nao" for="input-1">
 						<span class="input__label-content input__label-content--nao">Subject</span>
 					</label>
@@ -392,7 +384,7 @@
 					</svg>
 			</div>
 			<div class="input input--nao">
-				<input class="input__field input__field--nao" type="text" id="input-1" required="">
+				<input class="input__field input__field--nao" type="text" id="input-1" required="" name="body">
 					<label class="input__label input__label--nao" for="input-1">
 						<span class="input__label-content input__label-content--nao">Massage</span>
 					</label>
@@ -400,7 +392,7 @@
 						<path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0" stroke-width="1"></path>
 					</svg>
 			</div>
-                      <button type="submit" class="btn btn-default">Send</button>
+                      <button type="submit" class="btn btn-default ripple">Send</button>
                     </form>
                 </div>
             </div>
@@ -415,12 +407,16 @@
     </div>
 </div>
 
+<div class="kc_fab_wrapper" > </div>
+
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap-portfilter.min.js"></script>
 <script src="js/jquery.js"></script>
+<script src="js/fab-btn.js"></script>
+<script src="js/jquery.materialripple.js"></script>
 <script src="js/script.js"></script>
 </body>
 </html>
