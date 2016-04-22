@@ -46,7 +46,15 @@ $(document).ready(function(){
         {
             "bgcolor":"#ff4081",
             "icon":"+"
-        },     
+        },
+        {
+            "url":"https://in.linkedin.com/in/shailesh-nakrani-326439118",
+            "bgcolor":"#1A85BC",
+            "color":"white",
+            "icon":"<i class='fa fa-linkedin-square'></i>",
+            "target":"_blank",
+            "title" : "Linkedin"
+        }, 
         {
             "url":"http://snakrani.deviantart.com",
             "bgcolor":"#475C4D",
