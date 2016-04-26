@@ -18,6 +18,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{color:#ff4081;}
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{color:#ff4081;border-color:#ff4081;background:none;}
 
+.sn-img{padding:140px 0 0;}
 .sn-img img{width:100%;}
 .sn-detail{padding:140px 0 0;}
 .sn-detail .small-desc{font-weight:300;font-size:30px;font-family: 'Roboto', sans-serif;margin:0 0 5px;}
