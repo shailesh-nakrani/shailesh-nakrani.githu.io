@@ -9,12 +9,12 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 
 .navbar{border:0;position: fixed;width: 100%;top: 0;left: 0;margin: 0;z-index: 999;}
 .navbar-brand{padding: 8px 15px;color:#212121;height:auto;}
-.navbar-brand img{height: 40px;width: 195px;}
+.navbar-brand img{width: 195px;}
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{background:#fff;}
 .nav{border:0;color:#212121;margin-top:0;}
 .navbar-default{background:none;}
 .navbar-default .navbar-nav{position:relative;}
-.navbar-default .navbar-nav>li>a{font-size:14px;padding: 18px 15px 15px;text-transform:uppercase;border-bottom:solid 3px rgba(0,0,0,0);color:#777;}
+.navbar-default .navbar-nav>li>a{font-size:14px;padding: 13px 15px 8px;text-transform:uppercase;border-bottom:solid 3px rgba(0,0,0,0);color:#777;}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{color:#ff4081;}
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{color:#ff4081;border-color:#ff4081;background:none;}
 
