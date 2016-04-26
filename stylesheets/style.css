@@ -8,6 +8,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .scroll-active .navbar-brand{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);background-color: #fff;}
 
 .navbar-toggle{border:none;margin:0;background:none;padding: 10px 10px;margin-top: 10px;margin-right: 10px;}
+.navbar-toggle:hover{background:none;}
 .navbar{border:0;position: fixed;width: 100%;top: 0;left: 0;margin: 0;z-index: 999;}
 .navbar-brand{padding: 8px 15px;color:#212121;height:auto;}
 .navbar-brand img{width: 195px;}
