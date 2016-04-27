@@ -41,6 +41,9 @@ $('.ripple').materialripple();
    });
 });
 
+$('.navbar-nav li').click(function(){
+   $('.navbar-toggle').click();
+});
 $(document).ready(function(){
     var links = [
         {
