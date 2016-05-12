@@ -99,7 +99,6 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .contact-wrap .contact-frm .btn{margin-top:25px;border:none;border-radius:2px;color:#777;box-shadow:none;padding:7px 30px;background:#f6f6f6;text-transform:uppercase;}
 .contact-wrap .contact-frm .btn:hover{background:#ff4081;color:#fff;transition: all 0.5s ease;}
 .contact-wrap .address-block{text-align:center;margin:0 0 30px;}
-.contact-wrap .address-block .add-icn{margin:0 0 20px;}
 .contact-wrap .address-block p{margin:0 0 15px;font-size:14px;color:#777;}
 .contact-wrap .address-block a{margin:0 0 15px;font-size:14px;color:#777;}
 
