@@ -10,6 +10,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
         background: #fff;
     padding: 50px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    height: 405px;
 }
 .contact-img{
 	position: absolute;
