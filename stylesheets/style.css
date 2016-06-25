@@ -3,7 +3,18 @@
 
 *{font-family: 'Roboto', sans-serif;}
 body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
-
+.position {
+    position: relative;
+    padding: 250px 0 166px 0;
+    margin-left: 133px;
+}
+.contact-img{
+	position: relative;
+	z-index: 1;
+	margin-left: -147px;
+    	top: 0;
+    	margin-top: 96px;
+}
 .scroll-active .nav{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);background-color: #fff;}
 .scroll-active .navbar-brand{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);background-color: #fff;}
 
