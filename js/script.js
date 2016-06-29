@@ -48,7 +48,7 @@ $(document).ready(function(){
     var links = [
         {
             "bgcolor":"#ff4081",
-            "icon":"+"
+            "icon":"<i class="fa fa-thumbs-up" aria-hidden="true"></i>"
         },
         {
             "url":"https://in.linkedin.com/in/shailesh-nakrani-326439118",
