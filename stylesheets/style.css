@@ -3,22 +3,6 @@
 
 *{font-family: 'Roboto', sans-serif;}
 body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
-.position {
-    position: relative;
-    padding: 250px 0 166px 0;
-    margin-left: 133px;
-        background: #fff;
-    padding: 50px;
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
-    height: 405px;
-}
-.contact-img{
-	position: absolute;
-	z-index: 1;
-    	margin-left: -197px;
-    top: -50px;
-    margin-top: 50%;
-}
 .scroll-active .nav{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);background-color: #fff;}
 .scroll-active .navbar-brand{box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);background-color: #fff;}
 
