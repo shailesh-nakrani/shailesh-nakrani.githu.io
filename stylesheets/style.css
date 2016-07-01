@@ -36,7 +36,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .pink-btn{background:#ff4081;color:#fff;font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
 .pink-btn:hover{background:#dfa1f;color:#fff;text-decoration:none;}
 .green-btn{background:#f6f6f6;color:#212121;font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
-.green-btn:hover{background:#ff4081;color:#fff;text-decoration:none;}
+.green-btn:hover{background:#ededed;color:#fff;text-decoration:none;}
 
 .main-title{margin:0 0 40px;text-align:center;}
 .main-title h2{font-weight:100;font-size:60px;font-family: 'Roboto', sans-serif;margin:0;}
