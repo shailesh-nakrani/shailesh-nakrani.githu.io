@@ -105,7 +105,14 @@ $(document).ready(function(){
             "target":"_blank",
             "title" : "Facebook"
         },
-        
+       {
+            "url":"https://www.behance.net/shailesh-nakrani",
+            "bgcolor":"#3B5999",
+            "color":"white",
+            "icon":"<i class='fa fa-behance'></i>",
+            "target":"_blank",
+            "title" : "Behance"
+        },       
         
     ]
     $('.kc_fab_wrapper').kc_fab(links);
