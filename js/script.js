@@ -107,7 +107,7 @@ $(document).ready(function(){
         },
        {
             "url":"https://www.behance.net/shailesh-nakrani",
-            "bgcolor":"#3B5999",
+            "bgcolor":"##0094FA",
             "color":"white",
             "icon":"<i class='fa fa-behance'></i>",
             "target":"_blank",
