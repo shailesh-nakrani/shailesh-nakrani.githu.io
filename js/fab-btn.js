@@ -1,16 +1,3 @@
-/*===================================================================
-=            KC.FAB : Materialize Floating Action Button            =
-===================================================================*/
-/*
- * Copyright 2015 Mark Luk
- * Released under the MIT license
- * https://github.com/katrincwl/kc_fab/blob/master/LICENSE
- *
- * @author: Mark Luk
- * @version: 1.0
- * @date: 18/3/2015
- */
-
 (function($){
     if(!$.kc){
         $.kc = new Object();
