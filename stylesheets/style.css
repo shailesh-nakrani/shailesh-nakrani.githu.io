@@ -53,10 +53,10 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .portfolio-wrap .port-nav a{background:none;padding:10px 20px;border-bottom:solid 2px #ddd;color:#777;display:table-cell;text-decoration:none;cursor:pointer;}
 .portfolio-wrap .port-nav a:hover{border-bottom:solid 2px #ff4081;color:#ff4081;}
 .portfolio-wrap .port-nav a.active{border-bottom:solid 2px #ff4081;color:#ff4081;}
-.portfolio-wrap .gallery{margin:0;padding:0;list-style:none;}
+.portfolio-wrap .gallery{margin:0;padding:0;list-style:none;display:flex;flex-wrap:wrap;}
 .portfolio-wrap .gallery:after{content:'';clear:both;display:block;}
 .portfolio-wrap .gallery li{display:block;width:25%;float:left;padding:0 15px;margin:0 0 30px;}
-.portfolio-wrap .gallery li .thumbnail{padding:0;position:relative;margin:0;border:none;border-radius:0;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);overflow:hidden;}
+.portfolio-wrap .gallery li .thumbnail{padding:0;position:relative;margin:0;border:none;border-radius:0;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);overflow:hidden;height:100%;background-position:center center;background-repeat:no-repeat}
 .portfolio-wrap .gallery li .thumbnail .caption{position:absolute;text-align:center;padding:100px 0 0;top:100%;bottom:0;right:0;left:0;background:rgba(0,0,0,0.5);    -webkit-transition: all 0.5s ease;-ms-transition: 0.5s ease;-o-transition: 0.5s ease;transition: all 0.5s ease;}
 .portfolio-wrap .gallery li:hover .thumbnail .caption{top:0;display:block;}
 .portfolio-wrap .gallery li .thumbnail .caption h4{font-weight:600;font-size:16px;font-family: 'Roboto', sans-serif;margin:0;color:#fff;}
