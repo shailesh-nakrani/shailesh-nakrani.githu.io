@@ -51,13 +51,13 @@ $(document).ready(function(){
             "icon":"<i class='fa fa-thumbs-up'></i>"
         },
         {
-            "url":"https://in.linkedin.com/in/shailesh-nakrani-326439118",
-            "bgcolor":"#1A85BC",
+            "url":"https://in.pinterest.com/sallu7594/",
+            "bgcolor":"#c51d23",
             "color":"white",
-            "icon":"<i class='fa fa-linkedin-square'></i>",
+            "icon":"<i class='fa fa-pinterest-p'></i>",
             "target":"_blank",
-            "title" : "Linkedin"
-        }, 
+            "title" : "Pinterest"
+        },
         {
             "url":"http://snakrani.deviantart.com",
             "bgcolor":"#475C4D",
@@ -90,6 +90,14 @@ $(document).ready(function(){
             "title" : "Twitter"
         },
         {
+            "url":"https://in.linkedin.com/in/shailesh-nakrani-326439118",
+            "bgcolor":"#1A85BC",
+            "color":"white",
+            "icon":"<i class='fa fa-linkedin-square'></i>",
+            "target":"_blank",
+            "title" : "Linkedin"
+        },
+        {
             "url":"https://plus.google.com/+ShaileshNakranidiff",
             "bgcolor":"#DE4B39",
             "color":"white",
@@ -107,7 +115,7 @@ $(document).ready(function(){
         },
        {
             "url":"https://www.behance.net/shailesh-nakrani",
-            "bgcolor":"##0094FA",
+            "bgcolor":"#0037c4",
             "color":"white",
             "icon":"<i class='fa fa-behance'></i>",
             "target":"_blank",
