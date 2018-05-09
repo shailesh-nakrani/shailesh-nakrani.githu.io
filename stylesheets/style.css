@@ -178,6 +178,12 @@ button.kc_fab_main_btn{background-color:#F44336;width:60px;height:60px;border-ra
 		opacity: 0;
 	}
 }
+.logoname
+{
+color:black;
+font-weight: bold;
+
+}
 @-o-keyframes ripple {
 	100% {
 		-webkit-transform: scale(2.5);
