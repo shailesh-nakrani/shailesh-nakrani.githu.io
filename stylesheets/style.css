@@ -78,7 +78,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .work-wrap .work-block:after{content:'';width:40px;height:2px;background:#ff4081;position:absolute;top:90px;}
 .work-wrap .work-block:before{content:'';width:10px;height:10px;background:#ff4081;position:absolute;top:86px;border-radius:50%;}
 .work-wrap .work-block.left:after{right:0;}
-.work-wrap .work-block.left:before{right:40px;}
+.work-wrap .work-block.left:before{right:40px;} 
 .work-wrap .work-block.right:after{left:0;}
 .work-wrap .work-block.right:before{left:40px;}
 .work-wrap .work-block.left{padding-right:60px;float:left;margin-bottom:80px;}
