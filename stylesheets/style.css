@@ -66,7 +66,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .portfolio-title{padding:8px 15px 0px 15px;min-height:53px;}
 .proj-name{font-weight: 300;font-size: 18px;font-family:'Roboto',sans-serif; margin:0px;color: #222;}
 .link{font-weight:300;font-size:14px;font-family: 'Roboto', sans-serif;margin:0 0 15px;color:#222;}
-.link a{color:#777; text-decoration:underline;}
+.link a{color:#777; }
 .link a:hover{color:#222;}
 
 .work-wrap{padding:100px 0;}
