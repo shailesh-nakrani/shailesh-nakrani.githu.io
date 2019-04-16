@@ -87,6 +87,7 @@ $(document).ready(function(){
             "bgcolor":"#55ADEF",
             "color":"white",
             "icon":"<i class='fa fa-twitter'></i>",
+            "target":"_blank",
             "title" : "Twitter"
         },
         {
