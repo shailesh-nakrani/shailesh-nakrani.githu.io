@@ -51,20 +51,12 @@ $(document).ready(function(){
             "icon":"<i class='fa fa-thumbs-up'></i>"
         },
         {
-            "url":"https://in.pinterest.com/sallu7594/",
+            "url":"https://in.pinterest.com/designer_nakrani",
             "bgcolor":"#c51d23",
             "color":"white",
             "icon":"<i class='fa fa-pinterest-p'></i>",
             "target":"_blank",
             "title" : "Pinterest"
-        },
-        {
-            "url":"http://snakrani.deviantart.com",
-            "bgcolor":"#475C4D",
-            "color":"white",
-            "icon":"<i class='fa fa-deviantart'></i>",
-            "target":"_blank",
-            "title" : "Deviantart"
         },
         {
             "url":"https://dribbble.com/Shailesh_nakrani",
@@ -73,15 +65,7 @@ $(document).ready(function(){
             "icon":"<i class='fa fa-dribbble'></i>",
             "target":"_blank",
             "title" : "Dribbble"
-        }, 
-        {
-            "url":"https://www.instagram.com/designer_nakrani",
-            "bgcolor":"#9b6954",
-            "color":"white",
-            "icon":"<i class='fab fa-instagram'></i>",
-            "target":"_blank",
-            "title" : "Instagram"
-        },              
+        },               
         {
             "url":"https://twitter.com/snakrani7594",
             "bgcolor":"#55ADEF",
@@ -89,6 +73,14 @@ $(document).ready(function(){
             "icon":"<i class='fa fa-twitter'></i>",
             "target":"_blank",
             "title" : "Twitter"
+        },
+        {
+            "url":"https://www.instagram.com/designer_nakrani",
+            "bgcolor":"#9b6954",
+            "color":"white",
+            "icon":"<i class='fab fa-instagram'></i>",
+            "target":"_blank",
+            "title" : "Instagram"
         },
         {
             "url":"https://in.linkedin.com/in/shailesh-nakrani-326439118",
@@ -99,20 +91,28 @@ $(document).ready(function(){
             "title" : "Linkedin"
         },
         {
-            "url":"https://plus.google.com/+ShaileshNakranidiff",
-            "bgcolor":"#DE4B39",
-            "color":"white",
-            "icon":"<i class='fa fa-google-plus'></i>",
-            "target":"_blank",
-            "title" : "Google+"
-        },
-        {
             "url":"https://www.facebook.com/designer.nakrani",
             "bgcolor":"#3B5999",
             "color":"white",
             "icon":"<i class='fa fa-facebook'></i>",
             "target":"_blank",
             "title" : "Facebook"
+        },
+        {
+            "url":"https://www.fiverr.com/shaileshnakrani",
+            "bgcolor":"#02AE2C",
+            "color":"white",
+            "icon":"<i class='fas fa-pen-nib'></i>",
+            "target":"_blank",
+            "title" : "Fiverr"
+        },
+        {
+            "url":"https://www.upwork.com/o/profiles/users/_~0191a2f4ab2c22f181",
+            "bgcolor":"#6FD944",
+            "color":"white",
+            "icon":"<i class='fas fa-paint-brush'></i>",
+            "target":"_blank",
+            "title" : "Upwork"
         },
        {
             "url":"https://www.behance.net/shailesh-nakrani",
