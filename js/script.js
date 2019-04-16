@@ -102,7 +102,7 @@ $(document).ready(function(){
             "url":"https://www.fiverr.com/shaileshnakrani",
             "bgcolor":"#02AE2C",
             "color":"white",
-            "icon":"<i class='fa fa-pen-nib'></i>",
+            "icon":"<i class='fa fa-magic'></i>",
             "target":"_blank",
             "title" : "Fiverr"
         },
