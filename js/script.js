@@ -75,10 +75,10 @@ $(document).ready(function(){
             "title" : "Dribbble"
         }, 
         {
-            "url":"https://www.instagram.com/shailesh_nakrani",
+            "url":"https://www.instagram.com/designer_nakrani",
             "bgcolor":"#9b6954",
             "color":"white",
-            "icon":"<i class='fa fa-instagram'></i>",
+            "icon":"<i class="fab fa-instagram"></i>",
             "target":"_blank",
             "title" : "Instagram"
         },              
@@ -106,7 +106,7 @@ $(document).ready(function(){
             "title" : "Google+"
         },
         {
-            "url":"https://www.facebook.com/sallu7594",
+            "url":"https://www.facebook.com/designer.nakrani",
             "bgcolor":"#3B5999",
             "color":"white",
             "icon":"<i class='fa fa-facebook'></i>",
