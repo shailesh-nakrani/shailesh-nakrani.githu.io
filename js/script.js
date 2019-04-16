@@ -78,7 +78,7 @@ $(document).ready(function(){
             "url":"https://www.instagram.com/designer_nakrani",
             "bgcolor":"#9b6954",
             "color":"white",
-            "icon":"<i class="fab fa-instagram"></i>",
+            "icon":"<i class='fab fa-instagram'></i>",
             "target":"_blank",
             "title" : "Instagram"
         },              
