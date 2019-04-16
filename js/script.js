@@ -78,7 +78,7 @@ $(document).ready(function(){
             "url":"https://www.instagram.com/designer_nakrani",
             "bgcolor":"#9b6954",
             "color":"white",
-            "icon":"<i class='fab fa-instagram'></i>",
+            "icon":"<i class='fa fa-instagram'></i>",
             "target":"_blank",
             "title" : "Instagram"
         },
@@ -102,7 +102,7 @@ $(document).ready(function(){
             "url":"https://www.fiverr.com/shaileshnakrani",
             "bgcolor":"#02AE2C",
             "color":"white",
-            "icon":"<i class='fas fa-pen-nib'></i>",
+            "icon":"<i class='fa fa-pen-nib'></i>",
             "target":"_blank",
             "title" : "Fiverr"
         },
@@ -110,7 +110,7 @@ $(document).ready(function(){
             "url":"https://www.upwork.com/o/profiles/users/_~0191a2f4ab2c22f181",
             "bgcolor":"#6FD944",
             "color":"white",
-            "icon":"<i class='fas fa-paint-brush'></i>",
+            "icon":"<i class='fa fa-paint-brush'></i>",
             "target":"_blank",
             "title" : "Upwork"
         },
