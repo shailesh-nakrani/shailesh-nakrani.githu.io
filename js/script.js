@@ -99,10 +99,18 @@ $(document).ready(function(){
             "title" : "Facebook"
         },
         {
+            "url":"Skype live:snakrani7594",
+            "bgcolor":"#02AE2C",
+            "color":"white",
+            "icon":"<i class='fa fa-skype'></i>",
+            "target":"_blank",
+            "title" : "Skype id:snakrani7594"
+        },
+        {
             "url":"https://www.fiverr.com/shaileshnakrani",
             "bgcolor":"#02AE2C",
             "color":"white",
-            "icon":"<i class='fa fa-magic'></i>",
+            "icon":"<i class='fa fa-paint-brush'></i>",
             "target":"_blank",
             "title" : "Fiverr"
         },
@@ -110,7 +118,7 @@ $(document).ready(function(){
             "url":"https://www.upwork.com/o/profiles/users/_~0191a2f4ab2c22f181",
             "bgcolor":"#6FD944",
             "color":"white",
-            "icon":"<i class='fa fa-paint-brush'></i>",
+            "icon":"<i class='fa fa-briefcase'></i>",
             "target":"_blank",
             "title" : "Upwork"
         },
