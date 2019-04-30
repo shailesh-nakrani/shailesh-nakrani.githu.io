@@ -100,7 +100,7 @@ $(document).ready(function(){
         },
         {
             "url":"Skype live:snakrani7594",
-            "bgcolor":"#02AE2C",
+            "bgcolor":"#00aff0",
             "color":"white",
             "icon":"<i class='fa fa-skype'></i>",
             "target":"_blank",
