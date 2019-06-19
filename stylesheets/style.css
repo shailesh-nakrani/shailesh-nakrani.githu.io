@@ -25,7 +25,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
 .sn-detail .small-desc{font-weight:300;font-size:30px;font-family: 'Roboto', sans-serif;margin:0 0 5px;}
 .sn-detail .name{font-weight:400;font-size:60px;font-family: 'Roboto', sans-serif;margin:0 0 10px;}
 .sn-detail .name span{font-weight:100;}
-.sn-detail .designation{font-weight:300;font-size:18px;margin:0 0 30px;}
+.sn-detail .designation{font-weight:300;font-size:18px;margin:0 0 20px;}
 .sn-detail .data{margin:0 0 30px;}
 .sn-detail .data td{padding:10px 0;}
 .sn-detail .data label{font-size:16px;color:#777;margin:0;display:inline-block;width:130px;font-weight:400;font-family: 'Roboto', sans-serif;}
