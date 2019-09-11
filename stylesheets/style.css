@@ -2,7 +2,7 @@
 /* CSS Document */
 
 *{font-family: 'Roboto', sans-serif;}
-body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fafafa;}
+body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fff;}
 .scroll-active .nav{box-shadow: rgba(0,0,0,0.0470588) 0px 18px 23px 0px;background-color: #fff;}
 .scroll-active .navbar-brand{box-shadow: rgba(0,0,0,0.0470588) 0px 18px 23px 0px;background-color: #fff;}
 
