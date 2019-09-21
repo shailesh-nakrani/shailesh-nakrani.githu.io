@@ -93,7 +93,7 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fff;}
 .work-wrap .work-block .desc{font-weight:300;font-size:14px;font-family: 'Roboto', sans-serif;margin:0;color:#444;text-align:justify;}
 
 .blog-wrap{padding:100px 0;}
-.blog-block{border-radius:8px;background:#fff;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);margin:0 0 30px;}
+.blog-block{border-radius:8px;background:#fff;box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.09);margin:0 0 30px;}
 .blog-block .blog-img{margin:0;}
 .blog-block .blog-img img{width:100%;}
 .blog-block .blog-detail{padding:15px;}
