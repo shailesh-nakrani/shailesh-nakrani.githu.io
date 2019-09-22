@@ -66,9 +66,9 @@ body{font-family: 'Roboto', sans-serif;color:#212121;background-color:#fff;}
 .portfolio-wrap .gallery li .thumbnail .caption h4{font-weight:600;font-size:16px;font-family: 'Roboto', sans-serif;margin:0;color:#fff;}
 .portfolio-title{padding:8px 15px 0px 15px;min-height:53px;text-align: center;}
 .proj-name{font-weight: 300;font-size: 18px;font-family:'Roboto',sans-serif; margin:0px;color: #222;}
-.link{font-weight:300;font-size:14px;font-family: 'Roboto', sans-serif;margin:0 0 15px;color:#222;}
-.link a{color:#777; text-decoration:underline;}
-.link a:hover{color:#222;}
+.link{font-weight:300;font-size:14px;font-family: 'Roboto', sans-serif;margin:0 0 15px;color:#929292;}
+.link a{color:#929292; text-decoration:underline;}
+.link a:hover{color:#ff4081;}
 .thumbnail .behance-img{height:79%; background-size:cover; background-position:center; background-repeat:no-repeat;}
 
 .work-wrap{padding:100px 0;}
