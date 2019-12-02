@@ -30,10 +30,10 @@ body{font-family: 'Roboto', sans-serif;color:rgba(0,0,0,0.87);background-color:#
 .sn-detail .data td{padding:10px 0;}
 .sn-detail .data label{font-size:16px;color:#777;margin:0;display:inline-block;width:130px;font-weight:400;font-family: 'Roboto', sans-serif;}
 .sn-detail .data span{font-size:16px;color:#222;margin:0;display:inline-block;}
-.sn-detail .data a{font-size:16px;color:#222;margin:0;display:inline-block;}
+.sn-detail .data a{font-size:16px;margin:0;display:inline-block;}
 .sn-detail .action a{margin:0 10px 10px 0;min-width:150px}
 
-.pink-btn{background:#ff4081;color:#fff;font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
+.pink-btn{background:#fff;color:#ff4041;font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
 .pink-btn:hover{background:#dfa1f;color:#fff;text-decoration:none;}
 .green-btn{background:#f6f6f6;color:#212121;font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
 .green-btn:hover{background:#ededed;color:#212121;text-decoration:none;}
