@@ -33,10 +33,10 @@ body{font-family: 'Roboto', sans-serif;color:rgba(0,0,0,0.87);background-color:#
 .sn-detail .data a{font-size:16px;margin:0;display:inline-block;}
 .sn-detail .action a{margin:0 10px 10px 0;min-width:150px}
 
-.pink-btn{background:#fff;color:rgba(0,0,0,0.87);font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
-.pink-btn:hover{background:#fff;color:#ff4041;text-decoration:none;}
-.green-btn{background:#f6f6f6;color:#212121;font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
-.green-btn:hover{background:#ededed;color:#212121;text-decoration:none;}
+.pink-btn{background: #F1F3F6;box-shadow: -30px -30px 80px 0 #FFFFFF, 30px 30px 80px 0 rgba(55,84,170,0.10), inset 4px 4px 20px 0 rgba(255,255,255,0.50);color:rgba(0,0,0,0.87);font-size:16px;border:none;border-radius:4px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
+.pink-btn:hover{background:#fff;text-decoration:none;}
+.green-btn{color:rgba(0,0,0,0.54);font-size:16px;border:none;border-radius:3px;padding:10px 20px;display:inline-block;text-transform:uppercase;}
+.green-btn:hover{color:rgba(0,0,0,0.87);text-decoration:none;}
 
 .main-title{margin:0 0 40px;text-align:center;}
 .main-title h2{font-weight:100;font-size:60px;font-family: 'Roboto', sans-serif;margin:0;}
