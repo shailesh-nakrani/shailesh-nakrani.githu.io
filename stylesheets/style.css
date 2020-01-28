@@ -21,7 +21,7 @@ body{font-family: 'Roboto', sans-serif;color:rgba(0,0,0,0.87);background-color:#
 
 .sn-img{padding:140px 0 0;}
 .sn-img img{width:100%;padding: 100px;}
-.sn-detail{padding:140px 0 0;}
+.sn-detail{padding:140px 0 0;text-align: center;}
 .sn-detail .small-desc{font-weight:300;font-size:30px;font-family: 'Roboto', sans-serif;margin:0 0 5px;}
 .sn-detail .name{font-weight:400;font-size:60px;font-family: 'Roboto', sans-serif;margin:0 0 10px;}
 .sn-detail .name span{font-weight:100;}
