@@ -27,9 +27,9 @@ body{font-family: 'Roboto', sans-serif;color:rgba(0,0,0,0.87);background-color:#
 .sn-detail .name span{font-weight:100;}
 .sn-detail .designation{font-weight:300;font-size:18px;margin:0 0 20px;}
 .sn-detail .data{margin: 20px auto 35px;}
-.sn-detail .data .label{text-align:right; padding: 16px 0;}
-.sn-detail .data .value{text-align:left; padding: 16px 0;}
-.sn-detail .data label{font-size:14px;color:#777;margin:0;display:inline-block;width:130px;font-weight:400;font-family: 'Roboto', sans-serif;}
+.sn-detail .data .label{text-align: right;padding: 16px 0;display: table-cell;line-height: 0;font-size: 14px;}
+.sn-detail .data .value{    text-align: left;padding: 16px 0;display: table-cell;font-size: 14px;line-height: 0}
+.sn-detail .data label{display: inline;font-size:14px;color:#777;margin:0;display:inline-block;width:130px;font-weight:400;font-family: 'Roboto', sans-serif;}
 .sn-detail .data span{font-size:16px;color:#222;margin:0;display:inline-block;}
 .sn-detail .data a{font-size:14px;margin:0;display:inline-block;}
 .sn-detail .action a{margin:0 10px 10px 0;min-width:150px}
