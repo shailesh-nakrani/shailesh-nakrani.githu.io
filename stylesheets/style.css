@@ -28,8 +28,8 @@ body{font-family: 'Roboto', sans-serif;color:rgba(0,0,0,0.87);background-color:#
 .sn-detail .designation{font-weight:300;font-size:18px;margin:0 0 20px;}
 .sn-detail .data{margin: 20px auto 35px;}
 .sn-detail .data td{padding:6px 0;}
-.sn-detail .data .label{text-allign:right;}
-.sn-detail .data .value{text-allign:right;}
+.sn-detail .data .label{text-align:right;}
+.sn-detail .data .value{text-align:left;}
 .sn-detail .data label{font-size:14px;color:#777;margin:0;display:inline-block;width:130px;font-weight:400;font-family: 'Roboto', sans-serif;}
 .sn-detail .data span{font-size:16px;color:#222;margin:0;display:inline-block;}
 .sn-detail .data a{font-size:14px;margin:0;display:inline-block;}
